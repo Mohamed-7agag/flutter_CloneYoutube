@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "8BG-z-K2B4IDOkuMPqm28AWd03Q",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 103,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LfuzjGFN3uVKyce7k9XHZ_xH4eU",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI36SLicSOmKlHGZRFBl153PHsyAhRF5M"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-04T15:23:44Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "full qauran app ui &amp; logic flutter",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-04T15:23:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t0h-7e489dNi7LKmfC3w8OdwoEw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WlEgZKKd_xY"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-20T16:10:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@SecitDevelopers Youtube clone app with flutter(Full App) || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WlEgZKKd_xY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WlEgZKKd_xY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WlEgZKKd_xY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-20T16:10:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dt6OiQaHvJtL6idQzOObRURCYCU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5DujmZhrgFM"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-15T19:41:45Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutterكيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 11|| Create UI الجزء الاخير",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5DujmZhrgFM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5DujmZhrgFM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5DujmZhrgFM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-15T19:41:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wILAjHZcG8QY95E54vQQ8sXq1o0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nCWN5mqhdVo"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-13T19:48:26Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 10 || Create UI",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nCWN5mqhdVo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nCWN5mqhdVo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nCWN5mqhdVo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-13T19:48:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a2aImD_yDUPyZo3PTz4gySSbSZg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5SMZfRCUo3k"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-12T21:52:53Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 9",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5SMZfRCUo3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5SMZfRCUo3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5SMZfRCUo3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-12T21:52:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pzRUGLswZLdxvQ01Pp5drAdIbF8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jlgA9pADcmg"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-11T18:57:53Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 8 التعامل مع controller",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jlgA9pADcmg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jlgA9pADcmg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jlgA9pADcmg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-11T18:57:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KvVS1uEu1iUF9h9aAiha5EWHFIw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZkE1fwoNPBc"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-08T20:41:45Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 7 التعامل مع controller",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZkE1fwoNPBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZkE1fwoNPBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZkE1fwoNPBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-08T20:41:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q8qskdbWJ228Vk_TjkyBufkhkkk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "So8-5pfvAQ8"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-06T19:14:05Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 6 التعامل مع api getx",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/So8-5pfvAQ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/So8-5pfvAQ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/So8-5pfvAQ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-06T19:14:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yoRf_cpd8Mew6PUuVgP0Eb-4wmM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O6HhhakzEJg"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-04T23:24:39Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 5",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O6HhhakzEJg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O6HhhakzEJg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O6HhhakzEJg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-04T23:24:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9-wrk6mMhO0DfPiy9QmbtvobdwQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dKSZV2okSSQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-03T19:15:09Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 4",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dKSZV2okSSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dKSZV2okSSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dKSZV2okSSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-03T19:15:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0ZtxTDI2uZK-2_sQF6fCAhMz0ak",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EFToWeVzelc"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-31T19:00:09Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 3",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EFToWeVzelc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EFToWeVzelc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EFToWeVzelc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-31T19:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5rGRgiBmRXFYhKyDwo5nHta7qAo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wcHE8rJiqMw"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-29T19:00:19Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 2",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wcHE8rJiqMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wcHE8rJiqMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wcHE8rJiqMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-29T19:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AaSwoQA1h_kmQqbCjgtmRNX9YDk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MDPdAZaJ4KQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-27T19:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 1",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MDPdAZaJ4KQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MDPdAZaJ4KQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MDPdAZaJ4KQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-27T19:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tle5cJ1CbbFPzy7_027wU7pSkr0",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI36SLicSOmLaQ6C-4M-IfwIPSijUJgYa"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-24T22:17:00Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Create weather app (Full App) with Flutter &amp; Api",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-24T22:17:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jamyTQp9R_3QJmgjpUPqddCIHp8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zfaVN0oZokk"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-13T15:04:35Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "clock App With Flutter Flutter &amp;GetX&amp; GetStorage عمل تطبيق ساعه باستخام فلاتر",
+                "description": "في الفيديو ده هتقدر تعمل ساعه وتجيب الوقت والتاريخ وتخلي العقارب تتحرك علي حسب الوقت flutter with getx time controller ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zfaVN0oZokk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zfaVN0oZokk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zfaVN0oZokk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-13T15:04:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fnIeSLC7PdxLNqg1_cG957FMGuo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wJs8dzGCCtI"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-11T13:13:02Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Clock App With Getx &amp; GetStorage - برنامج ساعه يعتمد علي مبدأ الستريم -soon",
+                "description": "shorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wJs8dzGCCtI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wJs8dzGCCtI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wJs8dzGCCtI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-11T13:13:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WAvBzTuMq4-njvQF8w2TQGs88YY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GnjNa_wKxAA"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-06T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "#06 create Quiz app by flutter Using GetX state Mangment (Start Again method)مشروع كويز عربي",
+                "description": "في الفيديو ده هعرفك ازاي تعمل كويز اب quiz zpp بفلاتر او باستخدام فلاتروجيت اكس Getx Quiz App ✍   Quiz App ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GnjNa_wKxAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GnjNa_wKxAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GnjNa_wKxAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-06T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pubNhbAoc4S1Xp3NkxK_Fc30E2o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f1hin-z6qrU"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-05T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "#05 create Quiz app by flutter Using GetX state Mangment (get icon&amp; get color)مشروع كويز عربي",
+                "description": "في الفيديو ده هعرفك ازاي تعمل كويز اب quiz zpp بفلاتر او باستخدام فلاتروجيت اكس Getx Quiz App ✍   Quiz App ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f1hin-z6qrU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f1hin-z6qrU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f1hin-z6qrU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-05T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q-V6VRK61Zn9dt_kYwx34j46DMw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0CdDxZ67z6M"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-04T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "#04 create Quiz app by flutter Using GetX state Mangment (Next Question method)مشروع كويز عربي",
+                "description": "في الفيديو ده هعرفك ازاي تعمل كويز اب quiz zpp بفلاتر او باستخدام فلاتروجيت اكس Getx Quiz App ✍   Quiz App ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0CdDxZ67z6M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0CdDxZ67z6M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0CdDxZ67z6M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-04T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qnVann9HPOlECXyEvTWIBxk1tLI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B7Klq-LXgj4"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-03T17:00:27Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "#03 create Quiz app by flutter Using GetX state Mangment (check Answer&amp; Score Result)مشروع كويز عربي",
+                "description": "في الفيديو ده هعرفك ازاي تعمل كويز اب quiz zpp بفلاتر او باستخدام فلاتروجيت اكس Getx Quiz App ✍   Quiz App ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B7Klq-LXgj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B7Klq-LXgj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B7Klq-LXgj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-03T17:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uY4_3xIJYfdtktMnZqsw_DGR6wc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qc7QHu13xo4"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-02T17:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "#02 create Quiz app by flutter from zero Using GetX state Mangment (Create variables)مشروع كويز عربي",
+                "description": "في الفيديو ده هعرفك ازاي تعمل كويز اب quiz zpp بفلاتر او باستخدام فلاتروجيت اكس Getx Quiz App ✍   Quiz App ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qc7QHu13xo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qc7QHu13xo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qc7QHu13xo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-02T17:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rqGVhqJ5jeEK7JFV6JCVx2LP7pY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d-7qX8toxMo"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-01T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "#01 create Quiz app by flutter from zero Using GetX state Mangment (Create Model)|  مشروع كويز عربي",
+                "description": "في الفيديو ده هعرفك ازاي تعمل كويز اب quiz zpp بفلاتر او باستخدام فلاتروجيت اكس Getx Quiz App ✍   Quiz App ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d-7qX8toxMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d-7qX8toxMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d-7qX8toxMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-01T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "19tJX-AQhuswCazrl3oSm0Xt4Lg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hRK0MDGqhJo"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-31T13:34:03Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "#00 create Quiz app by flutter from zero Using GetX state Mangment | عمل مشروع كويز عربي",
+                "description": "في الفيديو ده هعرفك ازاي تعمل كويز اب quiz zpp بفلاتر او باستخدام فلاتروجيت اكس Getx Quiz App ✍   Quiz App ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hRK0MDGqhJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hRK0MDGqhJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hRK0MDGqhJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-31T13:34:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "khPiRe80OJnHH9p4ouaaIlt8y4E",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI36SLicSOmJT6oSLGErmht1EczZZrZtk"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-31T13:33:22Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Complete Quiz App by flutter and Getx State mangment | انشاء مشرو كويز اختبار باستخدام فلاتر",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hRK0MDGqhJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hRK0MDGqhJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hRK0MDGqhJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-31T13:33:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2bD4jYSKduJ6HpH8m3TY4J4GaOU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CasRDoWlPcY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-29T15:00:06Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@SecitDevelopers |create quiz app by flutter GetX  كيفيه عمل مشروع اختبارات | جنون عصام الشوالي",
+                "description": "في الفيديو ده هعرفك ازاي تعمل كويز اب quiz zpp بفلاتر او باستخدام فلاتروجيت اكس Getx Quiz App ✍   Quiz App ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CasRDoWlPcY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CasRDoWlPcY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CasRDoWlPcY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-29T15:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MvX3LpX3QWtSJFqRC9pI4xFdXrE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZrDK3fG4PO0"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-06T15:00:18Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@SecitDevelopers  | Create Note app with Flutter (Getx+SQFLite) | عمل مشروع (نوت) مذكره بفلاتر",
+                "description": "في الفيديو ده هتتعلم ازاي تعمل نوت ابليكيشن بنفسك من خلال فلاتر هنستخدم ال GETX لاداره الاستيت state mang وهنستخدم ال ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZrDK3fG4PO0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZrDK3fG4PO0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZrDK3fG4PO0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-06T15:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6yuIUCWau1d_xLlxPaNXqShhzR8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bf6SySzd1-g"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-04T12:59:48Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "note app by flutter (GETX &amp;SQFlite) مشروع مذكره محتوي الفيديو القادم",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bf6SySzd1-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bf6SySzd1-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bf6SySzd1-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-04T12:59:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xTIwy8i0xWA1eXQflPKS_jqvv1k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2ZL-iGzghhg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-02T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course  | bottom sheet getx",
+                "description": "في الفيديو ده هعرفك ازاي تستخدم GETX في ال UI وازاي انها بتسهل عليك ده هنتلم النهارده ال bottom sheet #sec_it_developers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ZL-iGzghhg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ZL-iGzghhg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ZL-iGzghhg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-02T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qF0YhZHaefrt44lhTLW1iiCvebc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "folxDszzTk0"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-01T17:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course  | easy default Dialog",
+                "description": "في الفيديو ده هعرفك ازاي تستخدم GETX في ال UI وازاي انها بتسهل عليك ده هنتلم النهارده ال default dialog #sec_it_developers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/folxDszzTk0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/folxDszzTk0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/folxDszzTk0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-01T17:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JqL8IuCAsHUock_O8MxC39okeeQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lWTi0YyipkY"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-30T17:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course  | snackbar part two",
+                "description": "في الفيديو ده هعرفك ازاي تستخدم GETX في ال UI وازاي انها بتسهل عليك ده هنتلم النهارده ال snackbar #sec_it_developers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lWTi0YyipkY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lWTi0YyipkY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lWTi0YyipkY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-30T17:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xtAjYKgH7F77v9PRZFig9qi9QFw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VAeqj2-05Uk"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-29T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course  | snackbar part one",
+                "description": "في الفيديو ده هعرفك ازاي تستخدم GETX في ال UI وازاي انها بتسهل عليك ده هنتلم النهارده ال snackbar #sec_it_developers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VAeqj2-05Uk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VAeqj2-05Uk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VAeqj2-05Uk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-29T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dwmTwqRceS5q841h54NuRGf2b_U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MFjoIT3RJSc"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-14T14:30:03Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | Create News App form Api عمل برنامج لجلب الاخبار",
+                "description": "الفيديو ده مهم ليك لاننا هنقدر في الفيديو ده نعمل برنامج يجيب الاخبار العالميه وف فيديو واحد بس هتخرج من الفيديو ده متعلك شويه ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MFjoIT3RJSc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MFjoIT3RJSc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MFjoIT3RJSc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-14T14:30:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DT7saRs9Cx8j3sTYsxUsyhPhCTs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mCCLO_YJ5YY"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-10T17:00:13Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | controller&#39;s LifeCycle",
+                "description": "في الحلقه دي هتكلم معك عن ال controller's lifecycle oninit onready onclose #sec_it_developers #flutter_GetX_Course تابع الدوره كامله ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mCCLO_YJ5YY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mCCLO_YJ5YY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mCCLO_YJ5YY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-10T17:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Sb608eblqLOxQJi81C-Meor7Drg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-C4UufO0tpw"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-08T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | Dependency Injection bindings (part 13)",
+                "description": "لسه مكمل معاك في شرح ال bindings #sec_it_developers #flutter_GetX_Course تابع الدوره كامله من هنا https://bit.ly/2ZuvJlm our ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-C4UufO0tpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-C4UufO0tpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-C4UufO0tpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-08T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rRjZ59thbvV0kbSBVg1d-5hhNQ8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9TPwGK6XwCg"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-07T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | Dependency Injection bindings (part 12)",
+                "description": "Dependency Injectionفي الفيديو ده بنكمل شرح في ال بس بمفهوم جديد وبيسهل عليك تقسيم الكودبتاعك Bindings ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9TPwGK6XwCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9TPwGK6XwCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9TPwGK6XwCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-07T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CabbhO8MRgYC6no7EfdCOzTZhiw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OLFxyFiuOEk"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-06T17:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | Dependency Injection Get lazyput Get find (part 11)",
+                "description": "Dependency Injectionفي الفيديو ده بنكمل شرح في ال لكن هستخدم معك get.lazyput get.find وهتلاقي فيه فرق كبير بين الحلقه دي ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OLFxyFiuOEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OLFxyFiuOEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OLFxyFiuOEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-06T17:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6XGU0k2rxIO0-e9lHDrfOWnLP44",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "99D2Iha4d1Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-05T17:00:12Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | Dependency Injection Get put (part 10)| الاعتماديات او التبعيه في فلاتر",
+                "description": "في الفيديو ده هعرفك استخدام get.put وطبعا لما تبصلها هتلاقي ان getx Dependency Injectionوفرت عليك كتير في موضوع ال ف ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/99D2Iha4d1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/99D2Iha4d1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/99D2Iha4d1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-05T17:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ub5adqYivMaERK2642BIC2aHufw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yfJavQO2LpE"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-04T17:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | dependency injection (part 9)| التبعيه او الاعتماديات",
+                "description": "لسه مكمل معك في ال state mangment dependency injectionوفي الحلقه الجميله دي هتكلم عن ال حلقه جامده ركز وهتفهم اكيد ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yfJavQO2LpE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yfJavQO2LpE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yfJavQO2LpE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-04T17:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4nVfnSxUWny4eEPh8Wf7zPScYl0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NiVoHvB-mEQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-03T18:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | How to use more than one GetX and Obx (part 8 )| استخدام اكتر من getx&amp;obx",
+                "description": "الفيديو ده تكميل للي قبله هعرفك ازاي تستخدم اكتر من getx&obx في نفس الاسكرين انجوي #sec_it_developers #flutter_GetX_Course ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NiVoHvB-mEQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NiVoHvB-mEQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NiVoHvB-mEQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-03T18:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7pKnnl1_TsOw2zWkEHk00jJ4WWg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lb8L_wQjHZs"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-03T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | How to use more than one GetBuilder(part 7) | ازاي اقدر استخدم اكتر من builder",
+                "description": "في الفيديو ده هعرفك ازاي تستخدم اكتر من getbuilder في نفس الاسكرينه #sec_it_developers #flutter_GetX_Course تابع الدوره كامله ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lb8L_wQjHZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lb8L_wQjHZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lb8L_wQjHZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-03T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pAu_b9aOVGq0Vqn2FgrZu3oMPv0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1JcG_s5YFhU"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-02T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | How GetBuilder Work And Rebuild (part 6) | ازاي بتشتغل",
+                "description": "في الفيديو ده هعرفك ازاي ال get builder بتشتغل #sec_it_developers #flutter_GetX_Course تابع الدوره كامله من هنا ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1JcG_s5YFhU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1JcG_s5YFhU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1JcG_s5YFhU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-02T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lHP2CuszspD_q8o1fB1KiMKeQ1A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iU6x2DYVTSc"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-01T17:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | the improper use of a GetX has been detected (part5)| حل مشكله",
+                "description": "في الفيديو ده هعرفك حل لمشكله هتقابلك وانت بستخدم getx & obx #sec_it_developers #flutter_GetX_Course تابع الدوره كامله من هنا ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iU6x2DYVTSc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iU6x2DYVTSc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iU6x2DYVTSc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-01T17:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i1SCwJWcyZWNgwhdRHG-f2xG5SI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zz3k3utHsWE"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-31T17:00:12Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course |  State Mangment  passing data (part 4)| تمرير البيانات",
+                "description": "في الفيديو ده هعرفك ازاي تقدر تمرر الببيانات بين الصفحات #sec_it_developers #flutter_GetX_Course تابع الدوره كامله من هنا ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zz3k3utHsWE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zz3k3utHsWE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zz3k3utHsWE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-31T17:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DqAJ_AYZvPN7DHvxhiDnjn8G__A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qm9bOk9ieqA"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-30T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | state mangment GetX Obx (part 3) | Reactive programming",
+                "description": "sec_it_developers #flutter_GetX_Course تابع الدوره كامله من هنا https://bit.ly/2ZuvJlm our community facebook page ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qm9bOk9ieqA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qm9bOk9ieqA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qm9bOk9ieqA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-30T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8lSHBG72kZpoo_4HNXX-ecXOhtU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z60Z78AnWP8"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-29T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | state mangment GetBuilder (part 2 )",
+                "description": "sec_it_developers #flutter_GetX_Course تابع الدوره كامله من هنا https://bit.ly/2ZuvJlm our community facebook page ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z60Z78AnWP8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z60Z78AnWP8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z60Z78AnWP8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-29T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U3PG4Q9XkFVw565LqNQkAdEMFL4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y_W5SNbBuNc"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-28T17:00:13Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | State Mangment why not stateful widget (part 1) |stateful ليه مش بستخدم",
+                "description": "وده بيكون لسببين setStateاو حتي ال stateful widgetفي الفيديو ده هعرفك ليه احنا مش بنشتغل علي الاول ان بيتم رسم الbuild في كل مره ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y_W5SNbBuNc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y_W5SNbBuNc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y_W5SNbBuNc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-28T17:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7J7ZKmfhgN5vc7LECpp3QaavG7k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IUZxA2qctLg"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-26T17:00:12Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | Get Navigation Named|toNamed | OffAllNamed | OffNamed | التنقل من خلال الاسماء",
+                "description": "في الفيديو ده هعلمك ازاي تتنقل بين الصفحات من خلال اسماء انت تديها للاسكرينات مش شرط الاسم الاصلي ليها من خلال getPage واللي ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IUZxA2qctLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IUZxA2qctLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IUZxA2qctLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-26T17:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Brb2gXdu-fyBbMfnCekXuPg6SnE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fTcYd6G07M4"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-25T17:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | Navigation GetX | Get.to/Get.off/Get.offAll | التنقل بين الصفحات بدون كونتكست",
+                "description": "في الفيديو ده هعرفك ازاي تتنقل بين الصفحات بدون كونتكست context باستخدام getx Get.to == push Get.off == pushReplacment ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fTcYd6G07M4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fTcYd6G07M4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fTcYd6G07M4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-25T17:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pb2nwbUowo8PRO41K8TJhQ_u-c0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YnOY9mgD4t4"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-24T17:00:12Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | Route Navigation in  flutter GetX Course| التنقل بين الصفحات في البرنامج فلاتر",
+                "description": "في الفيديو ده هتعرف الفرق بين التنقل بين الصفحات من خلال push,pushReplacment,pop,mayBePop تابع الدوره كامله من هنا ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YnOY9mgD4t4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YnOY9mgD4t4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YnOY9mgD4t4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-24T17:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WkepZ9XQ_2BVF5G-rbIQ04u6DZI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KrBadblp4f8"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-23T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "flutter GetX Course | GetX project Structure flutter MVC arabic-هيكله المشروع فلاتر بالعربي",
+                "description": "في الفيديو ده هعرفك ازاي تقسم الكود بتاعك بطريقه صح بحيث ان تمشي علي نمط معين يفيدك ويفيد غيرك لما يقرأ الكود بتاعك بعد م ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KrBadblp4f8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KrBadblp4f8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KrBadblp4f8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-23T17:00:11Z"
+            }
+        }
+    ]
+}

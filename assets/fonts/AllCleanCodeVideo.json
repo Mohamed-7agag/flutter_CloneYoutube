@@ -1,0 +1,147 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "bWke4RnIzW9N7CPETITyKzlMsT0",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 47,
+        "resultsPerPage": 4
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a_scI3oeg6MZf8iE4ASoLfhm5L8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1BF0neNV-Dk"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-25T13:00:54Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "clean code book | (chapter 2) Meaningful Names | شرح كتاب كلين كود أسماء ذات مغزى",
+                "description": "في الفيديو ده هشرحلك الشابتر التاني في اهم كتاب ممكن تقراه في مسيرتك البرمجيه و لأول مره في المحتوي العربي كتاب كلين كود ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1BF0neNV-Dk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1BF0neNV-Dk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1BF0neNV-Dk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-25T13:00:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dX7Cn6SjwSVN8qw0huo2RruSjQE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R7oAKaI6HTg"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-02T16:42:37Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Clean code in flutter arabic",
+                "description": "sec_it_developers #flutter_course_in_arabic our community facebook page : https://bit.ly/3vtKu2h facebook group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R7oAKaI6HTg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R7oAKaI6HTg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R7oAKaI6HTg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-02T16:42:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dCR3pc9YiRTlAHeTwc4kJmvzHwE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SnhQK6PrT_A"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-26T21:17:54Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "CleanCode| chapter one in clean code book  - شرح كتاب كلين كود الفصل الاول",
+                "description": "في الفيديو ده هشرحلك الشابتر الاول في اهم كتاب ممكن تقراه في مسيرتك البرمجيه و لأول مره في المحتوي العربي كتاب كلين كود الكتاب ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SnhQK6PrT_A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SnhQK6PrT_A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SnhQK6PrT_A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-26T21:17:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6E2lIryiwN7dr5uTL8MfXsFJSOU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c1OqLbxu9Co"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-24T17:44:58Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "clean code arabic | شرح كتاب كلين كود",
+                "description": "sec_it_developers #cleanCode شرح كتاب كلين كود بالعربي introduction to book مقدمه للكتاب how to write clean code (uncle bob) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c1OqLbxu9Co/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c1OqLbxu9Co/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c1OqLbxu9Co/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-24T17:44:58Z"
+            }
+        }
+    ]
+}

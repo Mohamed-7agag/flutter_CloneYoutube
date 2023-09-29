@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "VS1uQfIMtzdOzlvpesPLrNX2j0c",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 158,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8vBsu19s-kSFjapNDJ0lDe_5D7I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wowkw65hWn4"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-09T14:44:03Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Flutter Ai Course | create chat bot app with chat GPT BLoC part 3",
+                "description": "Flutter Ai Course with chat gpt and bloc كورس فلاتر ذكاء صناعي مع شات جي بي تي وبلوك ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wowkw65hWn4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wowkw65hWn4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wowkw65hWn4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-09T14:44:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iDy_fnkPH4JHrKFL_dhFejuSQuc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x2MGYYI-S6I"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-04T17:42:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Flutter Ai Course | create chat bot app with chat GPT BLoC part 2",
+                "description": "Flutter Ai Course with chat gpt and bloc كورس فلاتر ذكاء صناعي مع شات جي بي تي وبلوك sec it / @SecitDevelopers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x2MGYYI-S6I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x2MGYYI-S6I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x2MGYYI-S6I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-04T17:42:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kwCX4vRJ8LEC9U7yTfBZ9zxp8PM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eg5gFtwlNG0"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-01T17:45:20Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Flutter Ai Course | create chat bot app with chat GPT BLoC part 1",
+                "description": "Flutter Ai Course with chat gpt and bloc كورس فلاتر ذكاء صناعي مع شات جي بي تي وبلوك sec it / @SecitDevelopers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eg5gFtwlNG0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eg5gFtwlNG0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eg5gFtwlNG0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-01T17:45:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T9l_aIUz37zDw3vrMlZfSr55mU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vKOH8ZSOaAQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-03T15:27:47Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "How to Create Quran App By Flutter | كيفيه عمل تطبيق للقران الكريم باستخدام فلاتر part 7 || last",
+                "description": "sec it / @SecitDevelopers https://t.me/Sec_it_developers/269 src code: https://github.com/itsherifAhmed/quran_kareem al quran ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vKOH8ZSOaAQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vKOH8ZSOaAQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vKOH8ZSOaAQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-03T15:27:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "03TTNy_LGUfQD9VWl-1UAu5K_7w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hLslt1w-dk8"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-01T14:13:47Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "How to Create Quran App By Flutter | كيفيه عمل تطبيق للقران الكريم باستخدام فلاتر part 6",
+                "description": "sec it / @SecitDevelopers https://t.me/Sec_it_developers/269 al quran app al quran app download al quran app for pc al quran ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hLslt1w-dk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hLslt1w-dk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hLslt1w-dk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-01T14:13:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HTLYgu4SNoGIpO92pdXCcwy3psE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2q7PxJpXRv0"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-29T15:51:30Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "How to Create Quran App By Flutter | كيفيه عمل تطبيق للقران الكريم باستخدام فلاتر part 5",
+                "description": "sec it / @SecitDevelopers abdullahi abba zaria quran recitation app ahmad sulaiman quran app ahmadiyya quran app al quran ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2q7PxJpXRv0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2q7PxJpXRv0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2q7PxJpXRv0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-29T15:51:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k3WvA65EFPYYp_QQEViAmQhY4Oc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YbfLffSg7mU"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-27T13:35:17Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "How to Create Quran App By Flutter | كيفيه عمل تطبيق للقران الكريم باستخدام فلاتر part 4",
+                "description": "sec it / @SecitDevelopers abdullahi abba zaria quran recitation app ahmad sulaiman quran app ahmadiyya quran app al quran ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YbfLffSg7mU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YbfLffSg7mU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YbfLffSg7mU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-27T13:35:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CJAm1tolTiZFZXtRCQHAcAm77s8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5aMyu_2x3y4"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-25T19:24:58Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "How to Create Quran App By Flutter | كيفيه عمل تطبيق للقران الكريم باستخدام فلاتر part 3",
+                "description": "sec it /@SecitDevelopers abdullahi abba zaria quran recitation app ahmad sulaiman quran app ahmadiyya quran app al quran ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5aMyu_2x3y4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5aMyu_2x3y4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5aMyu_2x3y4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-25T19:24:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "igTe4qNBuBVRSM24KkRbUoOM4K4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "By9DY3SfUH4"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-12T17:28:48Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "How to Create Quran App By Flutter | كيفيه عمل تطبيق للقران الكريم باستخدام فلاتر part 1",
+                "description": "abdul rahman mossad quran app abdullahi abba zaria quran recitation app ahmad sulaiman quran app ahmadiyya quran app al ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/By9DY3SfUH4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/By9DY3SfUH4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/By9DY3SfUH4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-12T17:28:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ugbMvC0v9y9o2A2Pi8afnyzLNoA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mb10ndQn3yQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-04T17:00:11Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "How to Create Quran App By Flutter | كيفيه عمل تطبيق للقران الكريم باستخدام فلاتر",
+                "description": "abdul rahman mossad quran app abdullahi abba zaria quran recitation app ahmad sulaiman quran app ahmadiyya quran app al ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-04T17:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LfuzjGFN3uVKyce7k9XHZ_xH4eU",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI36SLicSOmKlHGZRFBl153PHsyAhRF5M"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-04T15:23:44Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "full qauran app ui &amp; logic flutter",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mb10ndQn3yQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-04T15:23:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mWeoxqRcjfX9AN-1cZ-ubFmf8pw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7GkEMDH---o"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-24T18:00:08Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "selectable text widget in flutter Best Widgets UI Course - اشهر ويدجتات في فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic our community facebook page : https://bit.ly/3vtKu2h facebook group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7GkEMDH---o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7GkEMDH---o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7GkEMDH---o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-24T18:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X-bXgJIUx-L743cmvzPqgGkL1LU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mwyjS4fwX-o"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-17T14:30:13Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Random Face Generator App With Flutter Connect to AI Model || تطبيق بفلاتر مع الذكاء الصناعي",
+                "description": "ف الفيديو القصير ده هنتعلم سوا ازاي نعمل تطبيق جديد وجميل وهو رادوم فيس جينيراتور random face generator هنتعامل مع hive path ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mwyjS4fwX-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mwyjS4fwX-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mwyjS4fwX-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-17T14:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "szglT1sqgoYPHg7Lpr9RzQX4srY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zA7uJUkGYec"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-11T19:00:33Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "How to Prevent/Disable Screenshot flutter -Best Widgets UI Course - اشهر ويدجتات في فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic our community facebook page : https://bit.ly/3vtKu2h facebook group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zA7uJUkGYec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zA7uJUkGYec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zA7uJUkGYec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-11T19:00:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7o4Mx--hndSTmYvrQBhmIG2ahXE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pE_bHG_1ZVE"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-08T19:00:22Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "copy to clipboard flutter Best Widgets UI Course - اشهر ويدجتات في فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic our community facebook page : https://bit.ly/3vtKu2h facebook group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pE_bHG_1ZVE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pE_bHG_1ZVE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pE_bHG_1ZVE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-08T19:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wmUD8BHcOgceqep4pi8Z1yers4U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hSOkd64NKKw"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-01T19:00:30Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Flutter Shimmer Effect -Best Widgets UI Course - اشهر ويدجتات في فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic our community facebook page : https://bit.ly/3vtKu2h facebook group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hSOkd64NKKw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hSOkd64NKKw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hSOkd64NKKw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-01T19:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kQl4biq94cojXamaWFKYSgrsCpg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AEIZXyUIJ58"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-11T19:00:03Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Create Draw App By Flutter (White Board) | كيفيه عمل برنامج للرسم من خلال فلاتر part One",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AEIZXyUIJ58/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AEIZXyUIJ58/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AEIZXyUIJ58/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-11T19:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "URNHcyy5S2UA35KSxC_EGoILtNM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zwgK8PjxZzE"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-04T18:45:01Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Programming talks - mini social media app php laravel backend  حوار برمجي مشروع تواصل اجتماعي فلاتر",
+                "description": "في الفيديو الطويل ده هتلاقي في نقاش برمجي مع ماجد وهنتعلم فيه اننا نخطط للمشروع ازاي مع المصمم وازاي اخطط المشروع الخاص بيا قبل م ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zwgK8PjxZzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zwgK8PjxZzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zwgK8PjxZzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-04T18:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WDm4xjk-DaErXYR2rRrzArwKO4Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Z3Q_bp6G-Yc"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-29T19:00:12Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "hack facebook using flutter and firebase (Access on username and password) |  كيفيه اختراق الفيسبوك",
+                "description": "في الفيديو ده هنشوف طريقه بيستخدموها عشان يقدروا يسحبوا يوزر وباسورد ضحيه معينه الطريقه ينفع تتعمل بفلاتر الغرض الاساسي ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z3Q_bp6G-Yc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z3Q_bp6G-Yc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z3Q_bp6G-Yc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-29T19:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jgPfbSU8dNlSvh1R2ZCV8y5cXu8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xOP0jPxedD8"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-23T18:50:25Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "كيفيه ربط فلاتر بالذكاء الاصطناعي |How to Attach AI module with flutter Image BG remover",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xOP0jPxedD8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xOP0jPxedD8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xOP0jPxedD8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-23T18:50:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t0h-7e489dNi7LKmfC3w8OdwoEw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WlEgZKKd_xY"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-20T16:10:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@SecitDevelopers Youtube clone app with flutter(Full App) || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WlEgZKKd_xY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WlEgZKKd_xY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WlEgZKKd_xY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-20T16:10:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dt6OiQaHvJtL6idQzOObRURCYCU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5DujmZhrgFM"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-15T19:41:45Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutterكيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 11|| Create UI الجزء الاخير",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5DujmZhrgFM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5DujmZhrgFM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5DujmZhrgFM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-15T19:41:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wILAjHZcG8QY95E54vQQ8sXq1o0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nCWN5mqhdVo"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-13T19:48:26Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 10 || Create UI",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nCWN5mqhdVo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nCWN5mqhdVo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nCWN5mqhdVo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-13T19:48:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a2aImD_yDUPyZo3PTz4gySSbSZg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5SMZfRCUo3k"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-12T21:52:53Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 9",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5SMZfRCUo3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5SMZfRCUo3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5SMZfRCUo3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-12T21:52:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pzRUGLswZLdxvQ01Pp5drAdIbF8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jlgA9pADcmg"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-11T18:57:53Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 8 التعامل مع controller",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jlgA9pADcmg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jlgA9pADcmg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jlgA9pADcmg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-11T18:57:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KvVS1uEu1iUF9h9aAiha5EWHFIw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZkE1fwoNPBc"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-08T20:41:45Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 7 التعامل مع controller",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZkE1fwoNPBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZkE1fwoNPBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZkE1fwoNPBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-08T20:41:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q8qskdbWJ228Vk_TjkyBufkhkkk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "So8-5pfvAQ8"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-06T19:14:05Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 6 التعامل مع api getx",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/So8-5pfvAQ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/So8-5pfvAQ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/So8-5pfvAQ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-06T19:14:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yoRf_cpd8Mew6PUuVgP0Eb-4wmM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O6HhhakzEJg"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-04T23:24:39Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter  كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 5",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O6HhhakzEJg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O6HhhakzEJg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O6HhhakzEJg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-04T23:24:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9-wrk6mMhO0DfPiy9QmbtvobdwQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dKSZV2okSSQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-03T19:15:09Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 4",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dKSZV2okSSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dKSZV2okSSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dKSZV2okSSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-03T19:15:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0ZtxTDI2uZK-2_sQF6fCAhMz0ak",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EFToWeVzelc"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-31T19:00:09Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 3",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EFToWeVzelc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EFToWeVzelc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EFToWeVzelc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-31T19:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5rGRgiBmRXFYhKyDwo5nHta7qAo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wcHE8rJiqMw"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-29T19:00:19Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 2",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wcHE8rJiqMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wcHE8rJiqMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wcHE8rJiqMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-29T19:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AaSwoQA1h_kmQqbCjgtmRNX9YDk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MDPdAZaJ4KQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-27T19:00:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Youtube clone app with flutter || كيفيه عمل تطبيق يوتيوب باستخدام فلاتر part 1",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MDPdAZaJ4KQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MDPdAZaJ4KQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MDPdAZaJ4KQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-27T19:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6dbOK8SrIX7_7-jDCQifb7XZMGo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "31E_YKrg26g"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-21T14:18:16Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Laravel php vs node js with flutter الافضل بينهم مع فلاتر #shorts",
+                "description": "shorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/31E_YKrg26g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/31E_YKrg26g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/31E_YKrg26g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-21T14:18:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PbH_ydsxpQUr3XNNeWJpA2b7y9I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Oo_Wq9YKEc0"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-19T19:00:06Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Create your own Flutter Weather app with the Flutter API عمل مشروع  الطقس باستخدام فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Oo_Wq9YKEc0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Oo_Wq9YKEc0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Oo_Wq9YKEc0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-19T19:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l9XQquAA1AXJiaM7LkbCr4CM0iE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mfwq2Vs1YcM"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-17T19:00:26Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Create your own Flutter Weather app with the Flutter API عمل مشروع  الطقس باستخدام فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mfwq2Vs1YcM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mfwq2Vs1YcM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mfwq2Vs1YcM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-17T19:00:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l8t3QysHzSLl4JGMCMSDNfC7r5s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BTmSFD7XU8c"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-14T21:00:02Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Create your own Flutter Weather app with the Flutter API عمل مشروع  الطقس باستخدام فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BTmSFD7XU8c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BTmSFD7XU8c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BTmSFD7XU8c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-14T21:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ox2R3xe5Xi8WUNMku1-dgVrLs_M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NmDl3kcnUzQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-28T21:31:42Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Create your own Flutter Weather app with the Flutter API عمل مشروع  الطقس باستخدام فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic Linked : https://www.linkedin.com/in/sec-it-developer-653a73238 FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NmDl3kcnUzQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NmDl3kcnUzQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NmDl3kcnUzQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-28T21:31:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bfjp5GZEqlJQm3i0No8q8E0mhfM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N658Uiq6_Mc"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-27T22:14:50Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Create your own Flutter Weather app with the Flutter API عمل مشروع  الطقس باستخدام فلاتر",
+                "description": "sec_it_developers #flutter_course_in_arabic FaceBook Group : https://www.facebook.com/groups/2920765598019194 whtasapp ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N658Uiq6_Mc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N658Uiq6_Mc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N658Uiq6_Mc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-27T22:14:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Aw5RHkUHgn4eBUBdJ4M6PxIrl4k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RhZz2VTFOnA"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-25T22:04:45Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Flutter Weather App-Full App with Api backend - مع باك ايند عمل تطبيق للطقس باستخدام فلاتر part Two",
+                "description": "في الفيديو ده هعرفك ازاي تعمل مودل api الاص بيك من موقع oenweathermap . org #sec_it_developers #flutter_course_in_arabic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RhZz2VTFOnA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RhZz2VTFOnA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RhZz2VTFOnA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-25T22:04:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jj6aZN5F02sod9-g8OoKXg4NBnU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ILWZEhuhQb8"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-24T22:44:02Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Flutter Weather App-Full App with Api backend - مع باك ايند عمل تطبيق للطقس باستخدام فلاتر",
+                "description": "في الفيديو ده هعرفك ازاي تجيب ال api الاص بيك من موقع oenweathermap . org #sec_it_developers #flutter_course_in_arabic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-24T22:44:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tle5cJ1CbbFPzy7_027wU7pSkr0",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI36SLicSOmLaQ6C-4M-IfwIPSijUJgYa"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-24T22:17:00Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Create weather app (Full App) with Flutter &amp; Api",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ILWZEhuhQb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-24T22:17:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mcLDJC3LdIe31oZMa5bpPYd5BnU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nZZ9PsL4z3Q"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-23T14:00:22Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Flutter Free Course App (udemy clone)فلاتر برنامج كورسات مجانيه يوديمي Full App التطبيق كامل ففيديو",
+                "description": "التطبيق كامل ففيديو واحد #sec_it_developers #flutter_course_in_arabic FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nZZ9PsL4z3Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nZZ9PsL4z3Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nZZ9PsL4z3Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-23T14:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "64Rw4YV9GQMCIDv59a_CQ-UhZ1g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4bor-fpAIqc"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-21T21:29:19Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@Sec it Developers  Flutter Free Course App (udemy clone) | فلاتر برنامج كورسات مجانيه يوديمي part 5",
+                "description": "في الفيديو ده هعرفك ازاي تعمل Web View Share URL Luncher change app icon #sec_it_developers #flutter_course_in_arabic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4bor-fpAIqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4bor-fpAIqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4bor-fpAIqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-21T21:29:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5lxMa6fZDn3cZ4gPwXArc4aLBn4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2avjAOxpBmc"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-20T23:49:57Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@Sec it Developers  Flutter Free Course App (udemy clone) | فلاتر برنامج كورسات مجانيه يوديمي part 4",
+                "description": "sec_it_developers #flutter_course_in_arabic في الفيديو ده هعرفك ازاي تعمل Course Tile Category Tile FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2avjAOxpBmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2avjAOxpBmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2avjAOxpBmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-20T23:49:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zuAvbNMXF_ZKzCRjI_YJ6p3XONc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_3mURmGc404"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-19T21:26:37Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@SecitDevelopers Flutter Free Course App (udemy clone) | فلاتر برنامج كورسات مجانيه يوديمي part 3",
+                "description": "sec_it_developers #flutter_course_in_arabic في الفيديو ده هعرفك ازاي تعمل Home Screen FaceBook Group ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_3mURmGc404/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_3mURmGc404/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_3mURmGc404/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-19T21:26:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4UFrq-FiCohKDkKj9EEz1zA26L8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n_jxMPOsLRM"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-17T21:40:09Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@SecitDevelopers Flutter Free Course App (udemy clone) | فلاتر برنامج كورسات مجانيه يوديمي part 2",
+                "description": "sec_it_developers #flutter_course_in_arabic في الفيديو ده هعرفك ازاي تعمل splash screen وكمان تعمل Welcome Screen FaceBook ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n_jxMPOsLRM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n_jxMPOsLRM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n_jxMPOsLRM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-17T21:40:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c4aVXWb_iFa3bNyCQWMxSgOdKlM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ynL_-ujbaJU"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-16T22:19:10Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "@SecitDevelopers  Flutter Free Course App (udemy clone) | فلاتر عمل برنامج كورسات مجانيه يوديمي",
+                "description": "sec_it_developers #flutter_course_in_arabic في الفيديو ده هعرفك ازاي تعمل splash screen وكمان تعمل Welcome Screen FaceBook ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ynL_-ujbaJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ynL_-ujbaJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ynL_-ujbaJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-16T22:19:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gCRAU2n_aCfo2CvAosKuLqej19c",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI36SLicSOmKMb9gvjQio9EPMpVK4oSK0"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-16T22:14:09Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Free Course App by Flutter",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ynL_-ujbaJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ynL_-ujbaJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ynL_-ujbaJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-16T22:14:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jamyTQp9R_3QJmgjpUPqddCIHp8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zfaVN0oZokk"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-13T15:04:35Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "clock App With Flutter Flutter &amp;GetX&amp; GetStorage عمل تطبيق ساعه باستخام فلاتر",
+                "description": "في الفيديو ده هتقدر تعمل ساعه وتجيب الوقت والتاريخ وتخلي العقارب تتحرك علي حسب الوقت flutter with getx time controller ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zfaVN0oZokk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zfaVN0oZokk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zfaVN0oZokk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-13T15:04:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fnIeSLC7PdxLNqg1_cG957FMGuo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wJs8dzGCCtI"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-11T13:13:02Z",
+                "channelId": "UCytEtngcIINSMbdc22SrbrQ",
+                "title": "Clock App With Getx &amp; GetStorage - برنامج ساعه يعتمد علي مبدأ الستريم -soon",
+                "description": "shorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wJs8dzGCCtI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wJs8dzGCCtI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wJs8dzGCCtI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sec it Developers",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-11T13:13:02Z"
+            }
+        }
+    ]
+}
