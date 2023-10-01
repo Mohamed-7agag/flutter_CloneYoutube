@@ -10,6 +10,7 @@ List<String> searchItems = [];
 List getXItems = [];
 List cleanCodeItems = [];
 List dartItems = [];
+List channel = [];
 
 Future readAllVideoJson() async {
   final String response =
@@ -48,4 +49,12 @@ Future readAllDartVideoJson() async {
   allDartVideo = data;
   dartItems = data['items'];
   return [allDartVideo, dartItems];
+}
+
+Future readChannelJson() async {
+  final String response =
+      await rootBundle.loadString("assets/fonts/channel.json");
+  final data = json.decode(response);
+  channel = data['items'];
+  return channel;
 }

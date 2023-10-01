@@ -19,8 +19,6 @@ class _DartScreenState extends State<DartScreen> {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       await readAllDartVideoJson();
-      print("----------------${allVideo.length}------------");
-      print("----------------${videoItems.length}------------");
     });
   }
 

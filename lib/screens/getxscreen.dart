@@ -19,8 +19,6 @@ class _GetxScreenState extends State<GetxScreen> {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       await readAllGetXVideoJson();
-      print("----------------${allVideo.length}------------");
-      print("----------------${videoItems.length}------------");
     });
   }
 

@@ -19,8 +19,6 @@ class _CleanCodeScreenState extends State<CleanCodeScreen> {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       await readAllCleanCodeVideoJson();
-      print("----------------${allVideo.length}------------");
-      print("----------------${videoItems.length}------------");
     });
   }
 

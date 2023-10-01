@@ -1,4 +1,4 @@
-// ignore_for_file: avoid_unnecessary_containers, prefer_const_constructors, file_names, sort_child_properties_last, prefer_const_literals_to_create_immutables
+// ignore_for_file: avoid_unnecessary_containers, prefer_const_constructors, file_names, sort_child_properties_last, prefer_const_literals_to_create_immutables, sized_box_for_whitespace
 
 import 'package:flutter/material.dart';
 import 'package:flutter_application_cloneyoutube/constant.dart';
@@ -386,14 +386,23 @@ class DataSearch extends SearchDelegate {
             Get.to(() => VideoDetails(videoIndex: pos, video: videoItems));
           },
           child: Column(
-            crossAxisAlignment: CrossAxisAlignment.end,
             children: [
               Container(
                 padding: EdgeInsets.symmetric(horizontal: 10, vertical: 10),
-                child: Text(
-                  "${filter[index]}",
-                  style: TextStyle(fontSize: 15),
-                  textDirection: TextDirection.rtl,
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.end,
+                  children: [
+                    Container(
+                      width: 320,
+                      child: Text(
+                        "${filter[index]}",
+                        style: TextStyle(fontSize: 15),
+                        textDirection: TextDirection.rtl,
+                      ),
+                    ),
+                    SizedBox(width: 15,),
+                    Icon(Icons.restore,size: 32,)
+                  ],
                 ),
               ),
               Divider(

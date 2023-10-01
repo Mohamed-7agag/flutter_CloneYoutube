@@ -1,6 +1,8 @@
 // ignore_for_file: avoid_unnecessary_containers, prefer_const_literals_to_create_immutables, prefer_const_constructors, sized_box_for_whitespace
 
 import 'package:flutter/material.dart';
+import 'package:flutter_application_cloneyoutube/screens/channelDetails.dart';
+import 'package:get/get.dart';
 
 class VideoBox extends StatefulWidget {
   final int videoIndex;
@@ -33,9 +35,15 @@ class _VideoBoxState extends State<VideoBox> {
               crossAxisAlignment: CrossAxisAlignment.start,
               textDirection: TextDirection.rtl,
               children: [
-                CircleAvatar(
-                  radius: 28,
-                  backgroundImage: Image.asset("assets/images/logo.png").image,
+                InkWell(
+                  onTap: () {
+                    Get.to(() => ChannelDetails());
+                  },
+                  child: CircleAvatar(
+                    radius: 24,
+                    backgroundImage:
+                        Image.asset("assets/images/logo.png").image,
+                  ),
                 ),
                 Container(
                   width: 290,

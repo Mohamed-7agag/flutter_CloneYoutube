@@ -1,6 +1,8 @@
 // ignore_for_file: file_names, prefer_const_constructors, avoid_unnecessary_containers, prefer_const_literals_to_create_immutables, unnecessary_string_interpolations
 
 import 'package:flutter/material.dart';
+import 'package:flutter_application_cloneyoutube/screens/channelDetails.dart';
+import 'package:get/get.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class VideoDetails extends StatefulWidget {
@@ -115,11 +117,16 @@ class _VideoDetailsState extends State<VideoDetails> {
                         style: TextStyle(fontSize: 20, height: 1.4,fontWeight: FontWeight.w500),
                       ),
                       SizedBox(width: 5,),
-                        CircleAvatar(
-                          radius: 28,
-                          backgroundColor: Colors.grey.withOpacity(0.5),
-                          backgroundImage:
-                              Image.asset("assets/images/logo.png").image,
+                        InkWell(
+                          onTap: () {
+                            Get.to(() => ChannelDetails());
+                          },
+                          child: CircleAvatar(
+                            radius: 28,
+                            backgroundColor: Colors.grey.withOpacity(0.5),
+                            backgroundImage:
+                                Image.asset("assets/images/logo.png").image,
+                          ),
                         ),
                           ],
                         )

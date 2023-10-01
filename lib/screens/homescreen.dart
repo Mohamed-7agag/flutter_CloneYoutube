@@ -19,8 +19,6 @@ class _HomepageState extends State<Homepage> {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       await readAllVideoJson();
-      print("----------------${allVideo.length}------------");
-      print("----------------${videoItems.length}------------");
     });
   }
 

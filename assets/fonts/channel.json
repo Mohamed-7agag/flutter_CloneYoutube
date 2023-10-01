@@ -1,0 +1,49 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "pRwLgD0Ve2sz8qYCsAOQVkDttcs",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1000
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "W80KMkQclBplUlVE4PhSPaQnDVs",
+            "id": "UCytEtngcIINSMbdc22SrbrQ",
+            "snippet": {
+                "title": "Sec it Developers",
+                "description": "مش عارف اوصفها ازاي , بس هيا قناه جامده بتقدم محتوي عن فلاتر ",
+                "customUrl": "@secitdevelopers",
+                "publishedAt": "2020-04-11T19:42:57.438852Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/1TcaC7_T_hoapFxFh0nxnYGHeNAi4rPKPO0TagCKKLGouKfvC8TzU9L9OnnmirC2gb3B3eMy8M4=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/1TcaC7_T_hoapFxFh0nxnYGHeNAi4rPKPO0TagCKKLGouKfvC8TzU9L9OnnmirC2gb3B3eMy8M4=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/1TcaC7_T_hoapFxFh0nxnYGHeNAi4rPKPO0TagCKKLGouKfvC8TzU9L9OnnmirC2gb3B3eMy8M4=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Sec it Developers",
+                    "description": "مش عارف اوصفها ازاي , بس هيا قناه جامده بتقدم محتوي عن فلاتر "
+                },
+                "country": "EG"
+            },
+            "statistics": {
+                "viewCount": "317673",
+                "subscriberCount": "8320",
+                "hiddenSubscriberCount": false,
+                "videoCount": "146"
+            }
+        }
+    ]
+}
