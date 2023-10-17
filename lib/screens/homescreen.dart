@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, avoid_print, unused_local_variable, prefer_const_literals_to_create_immutables, sized_box_for_whitespace
+// ignore_for_file: avoid_print, unused_local_variable,sized_box_for_whitespace
 
 import 'package:flutter/material.dart';
 import 'package:flutter_application_cloneyoutube/component/box.dart';
@@ -29,9 +29,10 @@ class _HomepageState extends State<Homepage> {
         future: readAllVideoJson(),
         builder: (BuildContext context, AsyncSnapshot snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
-            return Center(
+            return const Center(
               child: CircularProgressIndicator(
                 color: Colors.red,
+                strokeWidth: 2.7,
               ),
             );
           } else if (snapshot.hasError) {

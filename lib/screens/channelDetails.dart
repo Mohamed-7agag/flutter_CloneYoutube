@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, avoid_print, sized_box_for_whitespace, file_names, prefer_const_literals_to_create_immutables, sort_child_properties_last
+// ignore_for_file: avoid_print, sized_box_for_whitespace, file_names, sort_child_properties_last
 
 import 'package:flutter/material.dart';
 import 'package:flutter_application_cloneyoutube/constant.dart';
@@ -27,7 +27,7 @@ class _ChannelDetailsState extends State<ChannelDetails> {
           future: readChannelJson(),
           builder: (BuildContext context, AsyncSnapshot snapshot) {
             if (snapshot.connectionState == ConnectionState.waiting) {
-              return Center(
+              return const Center(
                 child: CircularProgressIndicator(
                   color: Colors.red,
                 ),
@@ -49,7 +49,7 @@ class _ChannelDetailsState extends State<ChannelDetails> {
                     ),
                   ),
                   Container(
-                    padding: EdgeInsets.all(18),
+                    padding: const EdgeInsets.all(18),
                     child: Column(
                       children: [
                         CircleAvatar(
@@ -57,15 +57,15 @@ class _ChannelDetailsState extends State<ChannelDetails> {
                           backgroundImage:
                               Image.asset("assets/images/logo.png").image,
                         ),
-                        SizedBox(
+                        const SizedBox(
                           height: 15,
                         ),
                         Text(
                           "${channel[0]['snippet']['title']}",
-                          style: TextStyle(
+                          style: const TextStyle(
                               fontSize: 32, fontWeight: FontWeight.bold),
                         ),
-                        SizedBox(
+                        const SizedBox(
                           height: 15,
                         ),
                         Row(
@@ -73,35 +73,35 @@ class _ChannelDetailsState extends State<ChannelDetails> {
                           children: [
                             Text(
                               " . ${channel[0]['statistics']['videoCount']} فيديو",
-                              style: TextStyle(fontSize: 16),
+                              style: const TextStyle(fontSize: 16),
                               textDirection: TextDirection.rtl,
                             ),
                             Text(
                               " . ${channel[0]['statistics']['subscriberCount']} مشترك",
-                              style: TextStyle(fontSize: 16),
+                              style: const TextStyle(fontSize: 16),
                               textDirection: TextDirection.rtl,
                             ),
                             Text(
                               "${channel[0]['snippet']['customUrl']}",
-                              style: TextStyle(fontSize: 16),
+                              style: const TextStyle(fontSize: 16),
                             )
                           ],
                         ),
-                        SizedBox(
+                        const SizedBox(
                           height: 8,
                         ),
                         Text(
                           " . ${channel[0]['snippet']['description']}",
-                          style: TextStyle(fontSize: 18),
+                          style: const TextStyle(fontSize: 18),
                           textAlign: TextAlign.center,
                         ),
-                        SizedBox(
+                        const SizedBox(
                           height: 30,
                         ),
                         Container(
                           height: 45,
                           width: double.infinity,
-                          child: Center(
+                          child: const Center(
                             child: Text(
                               "أشتراك",
                               style: TextStyle(
@@ -112,13 +112,13 @@ class _ChannelDetailsState extends State<ChannelDetails> {
                               color: Colors.grey[300],
                               borderRadius: BorderRadius.circular(50)),
                         ),
-                        SizedBox(
+                        const SizedBox(
                           height: 10,
                         ),
                         Container(
                           height: 45,
                           width: double.infinity,
-                          child: Center(
+                          child: const Center(
                             child: Text(
                               "أنضمام",
                               style: TextStyle(

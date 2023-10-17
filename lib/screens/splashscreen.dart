@@ -1,6 +1,3 @@
-// ignore_for_file: prefer_const_constructors
-
-
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_cloneyoutube/screens/bottombar.dart';
@@ -17,8 +14,8 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
-    Timer(Duration(seconds: 2), () {
-      Get.off(() => BottomBar());
+    Timer(const Duration(seconds: 2), () {
+      Get.off(() => const BottomBar());
     });
     super.initState();
   }
@@ -31,7 +28,10 @@ class _SplashScreenState extends State<SplashScreen> {
         height: double.infinity,
         color: Colors.white,
         child: Center(
-          child: SvgPicture.asset("assets/images/youtube.svg",width: 120,),
+          child: SvgPicture.asset(
+            "assets/images/youtube.svg",
+            width: 130,
+          ),
         ),
       ),
     );

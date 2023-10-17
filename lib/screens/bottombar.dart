@@ -1,4 +1,4 @@
-// ignore_for_file: avoid_unnecessary_containers, prefer_const_constructors, file_names, sort_child_properties_last, prefer_const_literals_to_create_immutables, sized_box_for_whitespace
+// ignore_for_file:, file_names, sort_child_properties_last,sized_box_for_whitespace
 
 import 'package:flutter/material.dart';
 import 'package:flutter_application_cloneyoutube/constant.dart';
@@ -26,7 +26,7 @@ class _BottomBarState extends State<BottomBar> {
   int currenttab = 4;
 
   final PageStorageBucket bucket = PageStorageBucket();
-  Widget currentScreen = Homepage();
+  Widget currentScreen = const Homepage();
 
   @override
   Widget build(BuildContext context) {
@@ -37,39 +37,44 @@ class _BottomBarState extends State<BottomBar> {
           leadingWidth: 230,
           leading: Row(
             children: [
-              SizedBox(
+              const SizedBox(
                 width: 10,
               ),
               CircleAvatar(
                 backgroundColor: Colors.grey[200],
-                child: Icon(
+                child: const Icon(
                   Icons.person,
                   color: Colors.black,
                 ),
-                radius: 20,
+                radius: 18,
               ),
-              SizedBox(
+              const SizedBox(
                 width: 5,
               ),
               IconButton(
                   onPressed: () {
                     showSearch(context: context, delegate: DataSearch());
                   },
-                  icon: Icon(
+                  icon: const Icon(
                     Icons.search_rounded,
-                    size: 27,
+                    size: 25,
                   )),
-              SizedBox(
+              const SizedBox(
                 width: 5,
               ),
-              Icon(
+              const Icon(
                 Icons.notifications_none_outlined,
-                size: 27,
+                size: 25,
               ),
-              SizedBox(
+              const SizedBox(
                 width: 5,
               ),
-              IconButton(onPressed: () {}, icon: Icon(Icons.cast)),
+              IconButton(
+                  onPressed: () {},
+                  icon: const Icon(
+                    Icons.cast,
+                    size: 23,
+                  )),
             ],
           ),
           actions: [
@@ -77,16 +82,16 @@ class _BottomBarState extends State<BottomBar> {
               "assets/images/ytlogo.png",
               width: 110,
             ),
-            SizedBox(
+            const SizedBox(
               width: 15,
             )
           ],
         ),
         bottomNavigationBar: BottomAppBar(
           child: Container(
-            padding: EdgeInsets.only(top: 6),
+            padding: const EdgeInsets.only(top: 6),
             height: 55,
-            margin: EdgeInsets.only(left: 12.0, right: 12.0),
+            margin: const EdgeInsets.only(left: 15.0, right: 15.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
@@ -94,7 +99,7 @@ class _BottomBarState extends State<BottomBar> {
                   onTap: () {
                     setState(() {
                       currenttab = 0;
-                      currentScreen = GetxScreen();
+                      currentScreen = const GetxScreen();
                     });
                   },
                   child: Column(
@@ -102,15 +107,15 @@ class _BottomBarState extends State<BottomBar> {
                       currenttab == 0
                           ? SvgPicture.asset(
                               "assets/images/library_on.svg",
-                              width: 28,
+                              width: 25,
                             )
                           : SvgPicture.asset(
                               "assets/images/library_off.svg",
-                              width: 28,
+                              width: 25,
                             ),
-                      Text(
+                      const Text(
                         "GetX",
-                        style: TextStyle(fontSize: 12),
+                        style: TextStyle(fontSize: 10),
                       )
                     ],
                   ),
@@ -119,7 +124,7 @@ class _BottomBarState extends State<BottomBar> {
                   onTap: () {
                     setState(() {
                       currenttab = 1;
-                      currentScreen = CleanCodeScreen();
+                      currentScreen = const CleanCodeScreen();
                     });
                   },
                   child: Column(
@@ -127,159 +132,161 @@ class _BottomBarState extends State<BottomBar> {
                       currenttab == 1
                           ? SvgPicture.asset(
                               "assets/images/subs_on.svg",
-                              width: 28,
+                              width: 25,
                             )
                           : SvgPicture.asset(
                               "assets/images/subs_off.svg",
-                              width: 28,
+                              width: 25,
                             ),
-                      Text(
+                      const Text(
                         "CleanCode",
-                        style: TextStyle(fontSize: 12),
+                        style: TextStyle(fontSize: 10),
                       )
                     ],
                   ),
                 ),
-                IconButton(
-                  onPressed: () {
-                    Get.bottomSheet(
-                      Container(
-                        padding: EdgeInsets.only(
-                            left: 5, top: 15, right: 10, bottom: 20),
-                        height: 360,
-                        decoration: BoxDecoration(
-                            borderRadius: BorderRadius.only(
-                                topLeft: Radius.circular(10),
-                                topRight: Radius.circular(10)),
-                            color: Colors.white),
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                          children: [
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                              children: [
-                                IconButton(
-                                    onPressed: () {
-                                      Get.back();
-                                    },
-                                    icon: Icon(
-                                      Icons.close_rounded,
-                                      size: 35,
-                                      color: const Color.fromARGB(123, 0, 0, 0),
-                                    )),
-                                Text(
-                                  "أنشاء",
-                                  style: TextStyle(
-                                      fontSize: 27,
-                                      fontWeight: FontWeight.w500),
-                                ),
-                              ],
-                            ),
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.end,
-                              children: [
-                                Text(
-                                  "Shorts  أنشاء فيديو",
-                                  style: TextStyle(
-                                      fontSize: 22,
-                                      fontWeight: FontWeight.w500),
-                                ),
-                                SizedBox(
-                                  width: 20,
-                                ),
-                                CircleAvatar(
-                                  radius: 23,
-                                  backgroundColor: Colors.grey[200],
-                                  child: Icon(
-                                    Icons.create_rounded,
-                                    color: Colors.black,
-                                    size: 27,
+                Container(
+                  margin: const EdgeInsets.only(right: 15),
+                  child: IconButton(
+                    onPressed: () {
+                      Get.bottomSheet(
+                        Container(
+                          padding: const EdgeInsets.only(
+                              left: 5, top: 10, right: 12, bottom: 20),
+                          height: 360,
+                          decoration: const BoxDecoration(
+                              borderRadius: BorderRadius.only(
+                                  topLeft: Radius.circular(12),
+                                  topRight: Radius.circular(12)),
+                              color: Colors.white),
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              Row(
+                                mainAxisAlignment:
+                                    MainAxisAlignment.spaceBetween,
+                                children: [
+                                  IconButton(
+                                      onPressed: () {
+                                        Get.back();
+                                      },
+                                      icon: const Icon(
+                                        Icons.close_rounded,
+                                        size: 35,
+                                        color: Colors.black,
+                                      )),
+                                  const Text(
+                                    "أنشاء",
+                                    style: TextStyle(
+                                        fontSize: 24,
+                                        fontWeight: FontWeight.w500),
                                   ),
-                                ),
-                              ],
-                            ),
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.end,
-                              children: [
-                                Text(
-                                  "تحميل فيديو",
-                                  style: TextStyle(
-                                      fontSize: 22,
-                                      fontWeight: FontWeight.w500),
-                                ),
-                                SizedBox(
-                                  width: 20,
-                                ),
-                                CircleAvatar(
-                                  radius: 23,
-                                  backgroundColor: Colors.grey[200],
-                                  child: Icon(
-                                    Icons.upload_rounded,
-                                    color: Colors.black,
-                                    size: 30,
+                                ],
+                              ),
+                              Row(
+                                mainAxisAlignment: MainAxisAlignment.end,
+                                children: [
+                                  const Text(
+                                    "Shorts  أنشاء فيديو",
+                                    style: TextStyle(
+                                        fontSize: 18,
+                                        fontWeight: FontWeight.w500),
                                   ),
-                                ),
-                              ],
-                            ),
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.end,
-                              children: [
-                                Text(
-                                  "بث محتوي مباشر",
-                                  style: TextStyle(
-                                      fontSize: 22,
-                                      fontWeight: FontWeight.w500),
-                                ),
-                                SizedBox(
-                                  width: 20,
-                                ),
-                                CircleAvatar(
-                                  radius: 23,
-                                  backgroundColor: Colors.grey[200],
-                                  child: Icon(
-                                    Icons.cast,
-                                    color: Colors.black,
-                                    size: 25,
+                                  const SizedBox(
+                                    width: 20,
                                   ),
-                                ),
-                              ],
-                            ),
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.end,
-                              children: [
-                                Text(
-                                  "أنشاء مشاركة",
-                                  style: TextStyle(
-                                      fontSize: 22,
-                                      fontWeight: FontWeight.w500),
-                                ),
-                                SizedBox(
-                                  width: 20,
-                                ),
-                                CircleAvatar(
-                                  radius: 23,
-                                  backgroundColor: Colors.grey[200],
-                                  child: Icon(
-                                    Icons.ios_share_outlined,
-                                    color: Colors.black,
-                                    size: 26,
+                                  CircleAvatar(
+                                    radius: 21,
+                                    backgroundColor: Colors.grey[200],
+                                    child: const Icon(
+                                      Icons.create_rounded,
+                                      color: Colors.black,
+                                      size: 25,
+                                    ),
                                   ),
-                                ),
-                              ],
-                            ),
-                          ],
+                                ],
+                              ),
+                              Row(
+                                mainAxisAlignment: MainAxisAlignment.end,
+                                children: [
+                                  const Text(
+                                    "تحميل فيديو",
+                                    style: TextStyle(
+                                        fontSize: 18,
+                                        fontWeight: FontWeight.w500),
+                                  ),
+                                  const SizedBox(
+                                    width: 20,
+                                  ),
+                                  CircleAvatar(
+                                    radius: 21,
+                                    backgroundColor: Colors.grey[200],
+                                    child: const Icon(
+                                      Icons.upload_rounded,
+                                      color: Colors.black,
+                                      size: 27,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                              Row(
+                                mainAxisAlignment: MainAxisAlignment.end,
+                                children: [
+                                  const Text(
+                                    "بث محتوي مباشر",
+                                    style: TextStyle(
+                                        fontSize: 18,
+                                        fontWeight: FontWeight.w500),
+                                  ),
+                                  const SizedBox(
+                                    width: 20,
+                                  ),
+                                  CircleAvatar(
+                                    radius: 21,
+                                    backgroundColor: Colors.grey[200],
+                                    child: const Icon(
+                                      Icons.cast,
+                                      color: Colors.black,
+                                      size: 22,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                              Row(
+                                mainAxisAlignment: MainAxisAlignment.end,
+                                children: [
+                                  const Text(
+                                    "أنشاء مشاركة",
+                                    style: TextStyle(
+                                        fontSize: 18,
+                                        fontWeight: FontWeight.w500),
+                                  ),
+                                  const SizedBox(
+                                    width: 20,
+                                  ),
+                                  CircleAvatar(
+                                    radius: 21,
+                                    backgroundColor: Colors.grey[200],
+                                    child: const Icon(
+                                      Icons.ios_share_outlined,
+                                      color: Colors.black,
+                                      size: 22,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ],
+                          ),
                         ),
-                      ),
-                    );
-                  },
-                  icon: Container(
-                    child: SvgPicture.asset("assets/images/plus.svg"),
+                      );
+                    },
+                    icon: SvgPicture.asset("assets/images/plus.svg"),
                   ),
                 ),
                 InkWell(
                   onTap: () {
                     setState(() {
-                      currentScreen = DartScreen();
+                      currentScreen = const DartScreen();
                     });
                     currenttab = 3;
                   },
@@ -288,15 +295,15 @@ class _BottomBarState extends State<BottomBar> {
                       currenttab == 3
                           ? SvgPicture.asset(
                               "assets/images/compass_on.svg",
-                              width: 28,
+                              width: 25,
                             )
                           : SvgPicture.asset(
                               "assets/images/compass_off.svg",
-                              width: 28,
+                              width: 25,
                             ),
-                      Text(
+                      const Text(
                         "Dart",
-                        style: TextStyle(fontSize: 12),
+                        style: TextStyle(fontSize: 10),
                       )
                     ],
                   ),
@@ -304,7 +311,7 @@ class _BottomBarState extends State<BottomBar> {
                 InkWell(
                   onTap: () {
                     setState(() {
-                      currentScreen = Homepage();
+                      currentScreen = const Homepage();
                     });
                     currenttab = 4;
                   },
@@ -313,15 +320,15 @@ class _BottomBarState extends State<BottomBar> {
                       currenttab == 4
                           ? SvgPicture.asset(
                               "assets/images/home_on.svg",
-                              width: 28,
+                              width: 25,
                             )
                           : SvgPicture.asset(
                               "assets/images/home_off.svg",
-                              width: 28,
+                              width: 25,
                             ),
-                      Text(
+                      const Text(
                         "Home",
-                        style: TextStyle(fontSize: 12),
+                        style: TextStyle(fontSize: 10),
                       )
                     ],
                   ),
@@ -332,12 +339,12 @@ class _BottomBarState extends State<BottomBar> {
           elevation: 15,
         ),
         body: currenttab == 4
-            ? Homepage()
+            ? const Homepage()
             : currenttab == 3
-                ? DartScreen()
+                ? const DartScreen()
                 : currenttab == 1
-                    ? CleanCodeScreen()
-                    : GetxScreen());
+                    ? const CleanCodeScreen()
+                    : const GetxScreen());
   }
 }
 
@@ -349,7 +356,10 @@ class DataSearch extends SearchDelegate {
           onPressed: () {
             query = "";
           },
-          icon: Icon(Icons.close)),
+          icon: const Icon(
+            Icons.close,
+            color: Colors.black,
+          )),
     ];
   }
 
@@ -359,12 +369,15 @@ class DataSearch extends SearchDelegate {
         onPressed: () {
           close(context, null);
         },
-        icon: Icon(Icons.arrow_back));
+        icon: const Icon(
+          Icons.arrow_back,
+          color: Colors.black,
+        ));
   }
 
   @override
   Widget buildResults(BuildContext context) {
-    return Text("");
+    return const Text("");
   }
 
   @override
@@ -388,7 +401,8 @@ class DataSearch extends SearchDelegate {
           child: Column(
             children: [
               Container(
-                padding: EdgeInsets.symmetric(horizontal: 10, vertical: 10),
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.end,
                   children: [
@@ -396,12 +410,17 @@ class DataSearch extends SearchDelegate {
                       width: 320,
                       child: Text(
                         "${filter[index]}",
-                        style: TextStyle(fontSize: 15),
+                        style: const TextStyle(fontSize: 12),
                         textDirection: TextDirection.rtl,
                       ),
                     ),
-                    SizedBox(width: 15,),
-                    Icon(Icons.restore,size: 32,)
+                    const SizedBox(
+                      width: 15,
+                    ),
+                    const Icon(
+                      Icons.restore,
+                      size: 30,
+                    )
                   ],
                 ),
               ),

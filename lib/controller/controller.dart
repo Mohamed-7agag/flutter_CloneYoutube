@@ -9,15 +9,4 @@ class MyController extends GetxController {
     click = !click;
     update();
   }
-
-  void ChangeName() {
-    if (word == "أشتراك") {
-      word = "تم الأشتراك";
-      update();
-    } else {
-      word == "أشتراك";
-      update();
-    }
-    update();
-  }
 }

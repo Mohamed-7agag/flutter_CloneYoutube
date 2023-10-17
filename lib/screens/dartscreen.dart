@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, avoid_print, unused_local_variable
+// ignore_for_file:, avoid_print, unused_local_variable
 
 import 'package:flutter/material.dart';
 import 'package:flutter_application_cloneyoutube/component/box.dart';
@@ -25,13 +25,15 @@ class _DartScreenState extends State<DartScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      
       body: FutureBuilder(
         future: readAllDartVideoJson(),
         builder: (BuildContext context, AsyncSnapshot snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
-            return Center(
-              child: CircularProgressIndicator(color: Colors.red,),
+            return const Center(
+              child: CircularProgressIndicator(
+                color: Colors.red,
+                strokeWidth: 2.7,
+              ),
             );
           } else if (snapshot.hasError) {
             print("---${snapshot.error}---");
@@ -46,7 +48,10 @@ class _DartScreenState extends State<DartScreen> {
                         video: dartItems,
                       ));
                 },
-                child: VideoBox(videoIndex : index, items: dartItems,),
+                child: VideoBox(
+                  videoIndex: index,
+                  items: dartItems,
+                ),
               );
             },
           );

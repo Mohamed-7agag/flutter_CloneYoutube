@@ -30,7 +30,7 @@ class _CleanCodeScreenState extends State<CleanCodeScreen> {
         builder: (BuildContext context, AsyncSnapshot snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
             return Center(
-              child: CircularProgressIndicator(color: Colors.red,),
+              child: CircularProgressIndicator(color: Colors.red,strokeWidth: 2.7,),
             );
           } else if (snapshot.hasError) {
             print("---${snapshot.error}---");

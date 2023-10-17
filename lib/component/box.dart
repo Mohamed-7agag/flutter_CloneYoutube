@@ -1,4 +1,4 @@
-// ignore_for_file: avoid_unnecessary_containers, prefer_const_literals_to_create_immutables, prefer_const_constructors, sized_box_for_whitespace
+// ignore_for_file: sized_box_for_whitespace
 
 import 'package:flutter/material.dart';
 import 'package:flutter_application_cloneyoutube/screens/channelDetails.dart';
@@ -17,7 +17,7 @@ class _VideoBoxState extends State<VideoBox> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.only(bottom: 6),
+      margin: const EdgeInsets.only(bottom: 7),
       child: Column(
         children: [
           Container(
@@ -29,7 +29,7 @@ class _VideoBoxState extends State<VideoBox> {
             ),
           ),
           Container(
-            padding: EdgeInsets.symmetric(horizontal: 10, vertical: 15),
+            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -37,10 +37,10 @@ class _VideoBoxState extends State<VideoBox> {
               children: [
                 InkWell(
                   onTap: () {
-                    Get.to(() => ChannelDetails());
+                    Get.to(() => const ChannelDetails());
                   },
                   child: CircleAvatar(
-                    radius: 24,
+                    radius: 20,
                     backgroundImage:
                         Image.asset("assets/images/logo.png").image,
                   ),
@@ -53,10 +53,10 @@ class _VideoBoxState extends State<VideoBox> {
                       Text(
                         textDirection: TextDirection.rtl,
                         "${widget.items[widget.videoIndex]["snippet"]["title"]}",
-                        style: TextStyle(fontSize: 15, height: 1.4),
+                        style: const TextStyle(fontSize: 14, height: 1.4),
                         overflow: TextOverflow.visible,
                       ),
-                      SizedBox(
+                      const SizedBox(
                         height: 3,
                       ),
                       Row(
@@ -66,7 +66,7 @@ class _VideoBoxState extends State<VideoBox> {
                             "${widget.items[widget.videoIndex]["snippet"]["channelTitle"]}  .  ",
                             textDirection: TextDirection.rtl,
                             style: TextStyle(
-                                fontSize: 14,
+                                fontSize: 12,
                                 height: 1.4,
                                 color: Colors.grey[600]),
                             overflow: TextOverflow.visible,
@@ -75,7 +75,7 @@ class _VideoBoxState extends State<VideoBox> {
                             textDirection: TextDirection.rtl,
                             "${widget.items[widget.videoIndex]["snippet"]["publishTime"].toString().substring(0, 10)} . ",
                             style: TextStyle(
-                                fontSize: 14,
+                                fontSize: 12,
                                 height: 1.4,
                                 color: Colors.grey[600]),
                             overflow: TextOverflow.visible,
@@ -85,7 +85,7 @@ class _VideoBoxState extends State<VideoBox> {
                     ],
                   ),
                 ),
-                Icon(
+                const Icon(
                   Icons.more_vert,
                 ),
               ],
