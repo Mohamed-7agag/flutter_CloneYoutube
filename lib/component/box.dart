@@ -21,7 +21,7 @@ class _VideoBoxState extends State<VideoBox> {
       child: Column(
         children: [
           Container(
-            height: 228,
+            height: 225,
             color: Colors.grey[200],
             child: Image.network(
               "${widget.items[widget.videoIndex]["snippet"]["thumbnails"]["medium"]["url"]}",
@@ -53,7 +53,7 @@ class _VideoBoxState extends State<VideoBox> {
                       Text(
                         textDirection: TextDirection.rtl,
                         "${widget.items[widget.videoIndex]["snippet"]["title"]}",
-                        style: const TextStyle(fontSize: 14, height: 1.4),
+                        style: const TextStyle(fontSize: 13, height: 1.4),
                         overflow: TextOverflow.visible,
                       ),
                       const SizedBox(
@@ -66,7 +66,7 @@ class _VideoBoxState extends State<VideoBox> {
                             "${widget.items[widget.videoIndex]["snippet"]["channelTitle"]}  .  ",
                             textDirection: TextDirection.rtl,
                             style: TextStyle(
-                                fontSize: 12,
+                                fontSize: 11,
                                 height: 1.4,
                                 color: Colors.grey[600]),
                             overflow: TextOverflow.visible,
@@ -75,7 +75,7 @@ class _VideoBoxState extends State<VideoBox> {
                             textDirection: TextDirection.rtl,
                             "${widget.items[widget.videoIndex]["snippet"]["publishTime"].toString().substring(0, 10)} . ",
                             style: TextStyle(
-                                fontSize: 12,
+                                fontSize: 11,
                                 height: 1.4,
                                 color: Colors.grey[600]),
                             overflow: TextOverflow.visible,

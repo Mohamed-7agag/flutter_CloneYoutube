@@ -53,7 +53,7 @@ class _ChannelDetailsState extends State<ChannelDetails> {
                     child: Column(
                       children: [
                         CircleAvatar(
-                          radius: 38,
+                          radius: 35,
                           backgroundImage:
                               Image.asset("assets/images/logo.png").image,
                         ),
@@ -63,7 +63,7 @@ class _ChannelDetailsState extends State<ChannelDetails> {
                         Text(
                           "${channel[0]['snippet']['title']}",
                           style: const TextStyle(
-                              fontSize: 32, fontWeight: FontWeight.bold),
+                              fontSize: 25, fontWeight: FontWeight.bold),
                         ),
                         const SizedBox(
                           height: 15,
@@ -73,17 +73,17 @@ class _ChannelDetailsState extends State<ChannelDetails> {
                           children: [
                             Text(
                               " . ${channel[0]['statistics']['videoCount']} فيديو",
-                              style: const TextStyle(fontSize: 16),
+                              style: const TextStyle(fontSize: 14),
                               textDirection: TextDirection.rtl,
                             ),
                             Text(
                               " . ${channel[0]['statistics']['subscriberCount']} مشترك",
-                              style: const TextStyle(fontSize: 16),
+                              style: const TextStyle(fontSize: 14),
                               textDirection: TextDirection.rtl,
                             ),
                             Text(
                               "${channel[0]['snippet']['customUrl']}",
-                              style: const TextStyle(fontSize: 16),
+                              style: const TextStyle(fontSize: 14),
                             )
                           ],
                         ),
@@ -92,7 +92,7 @@ class _ChannelDetailsState extends State<ChannelDetails> {
                         ),
                         Text(
                           " . ${channel[0]['snippet']['description']}",
-                          style: const TextStyle(fontSize: 18),
+                          style: const TextStyle(fontSize: 14),
                           textAlign: TextAlign.center,
                         ),
                         const SizedBox(
